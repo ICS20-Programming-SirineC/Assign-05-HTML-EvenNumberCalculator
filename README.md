@@ -1,1 +1,2 @@
 # Assign-05-HTML-EvenNumberCalculator
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-SirineC/Assign-05-HTML-EvenNumberCalculator/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-SirineC/Assign-05-HTML-EvenNumberCalculator/actions)
